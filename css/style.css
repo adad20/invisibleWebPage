@@ -28,14 +28,14 @@ hr{
 }
 h3{
 	margin-top: 0;
-	padding: 2rem 0 2rem 0;
+	padding: 2% 0 2% 0;
 	text-align: center;
 	font-family: 'Philosopher', sans-serif;
 	font-size: 2rem;
 }
 
 p,li{
-	margin: 0 9rem 0 8rem;
+	margin: 0 9% 0 8%;
 	text-align: center;
 	font-family: 'Merienda', cursive;
 	font-size: 1.2rem;
@@ -45,14 +45,14 @@ p,li{
 }
 
 .journey{
-	width: 10rem;
-	padding-left: 42rem;
+	width: 10%;
+	padding-left: 44%;
 }
 .experience{
-	width: 25rem;
-	padding-left: 32rem;
+	width: 25%;
+	padding-left: 36%;
 }
 .trust{
-	padding-left: 42rem;
-	width: 10rem;
+	padding-left: 44%;
+	width: 10%;
 }
